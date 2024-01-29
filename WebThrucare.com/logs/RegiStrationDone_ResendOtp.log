@@ -1,0 +1,32 @@
+17:01:15.992 INFO  - ==============RegiStrationDone_ResendOtp===========================================
+17:01:20.740 INFO  - open Browser= chrome
+17:01:49.683 INFO  - Open Url= https://app1.thrucare.com/
+17:01:49.765 INFO  - Verify Text =Sign-in/Sign-up
+17:01:57.791 INFO  - Click Button =Sign In / Sign Up
+17:01:57.827 INFO  - Verify Text =Patient
+17:02:07.232 INFO  - Click Select Button :
+17:02:07.275 INFO  - Verify Text =Sign in with your username and password
+17:02:13.484 INFO  - Click Sign Up Link :
+17:02:13.527 INFO  - Verify Text =Sign up with a new account
+17:02:18.644 INFO  - Input Patient UserName : Amado14
+17:02:23.746 INFO  - Input Patient UserEmail : Amado24@yopmail.com
+17:02:28.968 INFO  - Input patient UserPassword : Thrucare1$
+17:02:37.416 INFO  - Click Sign Up Button :
+17:02:37.454 INFO  - Verify Text =Verification code
+17:02:43.612 INFO  - Click send a new code Link :
+17:02:48.681 INFO  - Switch to Second window :
+17:03:03.876 INFO  - Open Yopmail URL =https://yopmail.com/
+17:03:03.942 INFO  - Enter User Yopmail  =Amado24@yopmail.com
+17:03:10.464 INFO  - copy code 
+17:03:10.483 INFO  - switch to First window
+17:03:10.569 INFO  - Enter verification code 
+17:03:14.785 INFO  - click Confirm account Button 
+17:03:17.837 INFO  - Verify Text =Welcome to ThruCare
+17:03:22.940 INFO  - Input Patient UserName : Amado
+17:03:28.027 INFO  - Patient Last Name=Kautzer
+17:03:33.123 INFO  - Select patient Gender=Male
+17:03:38.340 INFO  - Enter patient DOB =02/12/1960
+17:03:43.437 INFO  - Enter patient Phone Country =India
+17:03:48.554 INFO  - Enter patient Phone Number =4672885770
+17:03:53.666 INFO  - Click Sign Up Button
+17:03:58.746 INFO  - ===========================================================================================

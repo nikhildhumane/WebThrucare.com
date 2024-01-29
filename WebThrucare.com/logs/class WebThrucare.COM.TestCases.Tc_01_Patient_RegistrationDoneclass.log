@@ -1,0 +1,32 @@
+16:51:30.391 INFO  - ==============class WebThrucare.COM.TestCases.Tc_01_Patient_RegistrationDoneclass===========================================
+16:51:35.435 INFO  - open Browser= chrome
+16:52:09.359 INFO  - Open Url= https://app1.thrucare.com/
+16:52:09.441 INFO  - Verify Text =Sign-in/Sign-up
+16:52:17.425 INFO  - Click Button =Sign In / Sign Up
+16:52:17.642 INFO  - Verify Text =Patient
+16:52:26.884 INFO  - Click Select Button :
+16:52:26.924 INFO  - Verify Text =Sign in with your username and password
+16:52:32.660 INFO  - Click Sign Up Link :
+16:52:32.713 INFO  - Verify Text =Sign up with a new account
+16:52:37.833 INFO  - Input Patient UserName : Hilton74
+16:52:43.038 INFO  - Input Patient UserEmail : Hilton68@yopmail.com
+16:52:48.128 INFO  - Input patient UserPassword : Thrucare1$
+16:52:54.934 INFO  - Click Sign Up Button :
+16:52:54.970 INFO  - Verify Text =Verification code
+16:53:01.411 INFO  - Click send a new code Link :
+16:53:06.478 INFO  - Switch to Second window :
+16:53:15.282 INFO  - Open Yopmail URL =https://yopmail.com/
+16:53:15.357 INFO  - Enter User Yopmail  =Hilton68@yopmail.com
+16:53:19.824 INFO  - copy code 
+16:53:19.843 INFO  - switch to First window
+16:53:19.915 INFO  - Enter verification code 
+16:53:23.932 INFO  - click Confirm account Button 
+16:53:26.854 INFO  - Verify Text =Welcome to ThruCare
+16:53:31.967 INFO  - Input Patient UserName : Hilton
+16:53:37.045 INFO  - Patient Last Name=West
+16:53:42.139 INFO  - Select patient Gender=Male
+16:53:47.288 INFO  - Enter patient DOB =19/03/1956
+16:53:52.384 INFO  - Enter patient Phone Country =India
+16:53:57.541 INFO  - Enter patient Phone Number =5370018684
+16:54:02.642 INFO  - Click Sign Up Button
+16:54:07.715 INFO  - ===========================================================================================
